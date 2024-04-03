@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DateFormatTest",
   "resources": {
-    "hash": "sha256-twZ2pdWy7UP/fDXVu92jtMV5JSZD6XXL+H4yqRPJ2Zc=",
+    "hash": "sha256-uDSugOQnmgnjZOeXHx5qReJyopWVDW4MGnaO0qIqYTo=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.tefzda3i1b.js": "sha256-9HuMzEApJA1ELmFZGvqVZQuNl1kTDEA//DK0lf9pRaI="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "DateFormatTest.wasm": "sha256-pm0KJEjNnn46OWs/vHCMcqsSrP4Mo9znhupjvmzml0k=",
+      "DateFormatTest.wasm": "sha256-NmAMbWGcjU+7imCeus2B2Ni9xc2Hp96kRI7qv669+5Y=",
       "HarfBuzzSharp.wasm": "sha256-wPsLU6xWROIkcZUcFnsm9CM7Bz7c57oiJ47QrhZ95SI=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-4TFetdhpNyA5ApU987BLn6S/5Ym+9POgNNoAgCX1hkA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-XDP/yMWyr8LJEurl9ZMA+sGCk4EBKZCNvlfSvICiGII=",
